@@ -1,1 +1,0 @@
-This repo contains examples shown in the article 'Popular Tricks and Tips for Feature Engineering' published on data-informed.com. The examples can be reproduced with the help of R script.
